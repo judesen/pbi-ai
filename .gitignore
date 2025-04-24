@@ -1,0 +1,6 @@
+# Ignore cursor files
+.cursor
+
+# Ignore build files
+bin/
+obj/
